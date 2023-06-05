@@ -1,0 +1,8 @@
+@use './partials/variable' as *;
+
+// importazione Bootstrap
+@import 'node_modules/bootstrap/scss/bootstrap';
+
+// importazione font source
+@import 'node_modules/@fontsource/montserrat/index.css';
+@import 'node_modules/@fontsource/montserrat/700.css';
